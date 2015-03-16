@@ -1,4 +1,4 @@
-####Majority Element
+####Merge Two Sorted Arrays
 
 For two sorted arrays: A[1..n] and  B[1..m] output sorted array C[1..n+m] containing all the elements of A and B.
 
